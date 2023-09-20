@@ -5,7 +5,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## HTML's job is to
+### HTML's job is to
 - [ ] style a webpage
 - [ ] add behaviour to a webpage
 - [ ] annotate content
@@ -21,7 +21,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## HTML uses __ to add meaning to webpage content.
+### HTML uses __ to add meaning to webpage content.
 
 - [ ] DOM
 - [ ] tags
@@ -38,7 +38,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## Which one is a valid HTML tag?
+### Which one is a valid HTML tag?
 
 - [ ] `<p>This is a paragraph</p>`
 - [ ] `<P>This is a paragraph</P>`
@@ -55,7 +55,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## What are HTML self-closing (or void) tags?
+### What are HTML self-closing (or void) tags?
 
 - [ ] tags without attributes 
 - [ ] tags without content
@@ -72,7 +72,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## What is `x` in the following?
+### What is `x` in the following?
 
 `<p x="value">...</p>`
 
@@ -93,7 +93,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## All HTML tags can have a `class` or `id` attribute.
+### All HTML tags can have a `class` or `id` attribute.
 
 - [ ] true
 - [ ] false
@@ -108,7 +108,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## The `alt` attribute in an `img` tag is used to provide a backup image in case the primary image doesn't load.
+### The `alt` attribute in an `img` tag is used to provide a backup image in case the primary image doesn't load.
 
 - [ ] true
 - [ ] false
@@ -123,7 +123,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## Which one is correct?
+### Which one is correct?
 
 - [ ] a relative path doesn't have a web protocol (`http` or `https`)
 - [ ] an absolute path contains a web protocol (`http` or `https`)
@@ -142,7 +142,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## Which one is an absolute path?
+### Which one is an absolute path?
 
 - [ ] `https://mywebsite.com/about/index.html`
 - [ ] `/home/index.html`
@@ -161,7 +161,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## Which one is correct?
+### Which one is correct?
 
 - [ ] an inline element takes up the full width of the page and has top and bottom margins
 - [ ] a block element takes up the full width of the page and has top and bottom margins
@@ -180,7 +180,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## Which one is an inline element?
+### Which one is an inline element?
 
 - [ ] `<span></span>`
 - [ ] `<strong></strong>`
@@ -201,7 +201,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## Which one is a block element?
+### Which one is a block element?
 
 - [ ] `<div></div>`
 - [ ] `<figure></figure>`
@@ -222,7 +222,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## Which one is a generic element?
+### Which one is a generic element?
 
 - [ ] `<div></div>`
 - [ ] `<figure></figure>`
@@ -243,7 +243,7 @@ Refer to the lecture notes for more information.
 
 ---
 
-## Which one is a semantic element?
+### Which one is a semantic element?
 
 - [ ] `<figure></figure>`
 - [ ] `<article></article>`
